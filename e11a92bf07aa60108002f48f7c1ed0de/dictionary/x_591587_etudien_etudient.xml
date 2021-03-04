@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Etudient" max_length="40" name="x_591587_etudien_etudient" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Birthday" max_length="40" name="birthday" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="120" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="famele" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Famele" value="famele"/>
+                <element inactive_on_update="false" label="Male" value="male"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
