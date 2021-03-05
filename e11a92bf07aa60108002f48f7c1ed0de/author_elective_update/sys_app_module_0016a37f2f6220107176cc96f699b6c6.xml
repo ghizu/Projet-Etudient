@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Historic Etudiant Data</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_591587_etudien_historic_etudiant_data</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 18:20:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0016a37f2f6220107176cc96f699b6c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Historic Etudiant Data</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Etudient E" source="x_591587_etudien">e11a92bf07aa60108002f48f7c1ed0de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Etudient E">e11a92bf07aa60108002f48f7c1ed0de</sys_scope>
+        <sys_update_name>sys_app_module_0016a37f2f6220107176cc96f699b6c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 18:20:06</sys_updated_on>
+        <timeline_page/>
+        <title>Historic Etudiant Data</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Etudient E">e11a92bf07aa60108002f48f7c1ed0de</application>
+        <file_path/>
+        <instance_id>cd77eeb8db0433802f68c5970596190f</instance_id>
+        <instance_name>dev74592</instance_name>
+        <name>sys_app_module_0016a37f2f6220107176cc96f699b6c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Historic Etudiant Data</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_591587_etudien_historic_etudiant_data</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-04 18:20:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0016a37f2f6220107176cc96f699b6c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Historic Etudiant Data</sys_name><sys_overrides/><sys_package display_value="Etudient E" source="x_591587_etudien">e11a92bf07aa60108002f48f7c1ed0de</sys_package><sys_policy/><sys_scope display_value="Etudient E">e11a92bf07aa60108002f48f7c1ed0de</sys_scope><sys_update_name>sys_app_module_0016a37f2f6220107176cc96f699b6c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-04 18:20:06</sys_updated_on><timeline_page/><title>Historic Etudiant Data</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>566941256</payload_hash>
+        <record_name>Historic Etudiant Data</record_name>
+        <reverted_from/>
+        <source>7ec5d77f2f2220107176cc96f699b6e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 18:20:06</sys_created_on>
+        <sys_id>0016a37f2f6220107176cc96f699b6c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177fe77e7040000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 18:20:06</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4816a37f24622010bac221165ea451c8</update_guid>
+        <update_guid_history>4816a37f24622010bac221165ea451c8:566941256</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Historic Etudiant Data">3c2210842ff220107176cc96f699b696</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-04 21:32:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>78cac8545172461dadb51edc96d67301</sys_id>
+        <sys_metadata>0016a37f2f6220107176cc96f699b6c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Historic Etudiant Data</sys_name>
+        <sys_package display_value="Etudient E" source="x_591587_etudien">e11a92bf07aa60108002f48f7c1ed0de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Etudient E">e11a92bf07aa60108002f48f7c1ed0de</sys_scope>
+        <sys_scope_delete display_value="">1536b6bb04794ca89a24df91f5c98890</sys_scope_delete>
+        <sys_update_name>sys_app_module_0016a37f2f6220107176cc96f699b6c6</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0016a37f2f6220107176cc96f699b6c6">0016a37f2f6220107176cc96f699b6c9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 21:32:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-03-04 12:53:58</sys_created_on>
-            <sys_id>2a6b1aff07aa60108002f48f7c1ed089</sys_id>
+            <sys_id>7595dbb32f6220107176cc96f699b6a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>gender</sys_name>
             <sys_package display_value="Etudient E" source="x_591587_etudien">e11a92bf07aa60108002f48f7c1ed0de</sys_package>
@@ -53,6 +53,25 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2021-03-04 12:53:58</sys_updated_on>
             <value>male</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gender</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>female</label>
+            <language>en</language>
+            <name>x_591587_etudien_etudient</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-04 18:52:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d38d23b32fa220107176cc96f699b64d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-04 18:52:49</sys_updated_on>
+            <value>female</value>
         </sys_choice>
     </sys_choice>
 </record_update>

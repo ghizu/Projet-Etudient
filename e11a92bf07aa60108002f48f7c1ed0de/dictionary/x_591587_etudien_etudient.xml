@@ -7,6 +7,7 @@
             <choice>
                 <element inactive_on_update="false" label="Famele" value="famele"/>
                 <element inactive_on_update="false" label="Male" value="male"/>
+                <element inactive_on_update="false" label="female" sequence="0" value="female"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="last_name" type="string"/>
