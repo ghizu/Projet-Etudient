@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Etudient" max_length="40" name="x_591587_etudien_etudient" type="collection">
+    <element label="Etudient" max_length="40" name="x_591587_etudien_etudient" sizeclass="8" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Birthday" max_length="40" name="birthday" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Email" max_length="120" name="email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
